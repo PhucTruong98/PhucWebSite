@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Phuc Truong",
+    "occupation": "Computer Science Student",
+    "description": "I will be graduating in December 2022 with my Bachchelor Degree in Computer Science. My side preoccupations include making travel video and being a sale associates at Home Depot ",
+    "image": "profilepic.jpg",
+    "bio": "My areas of expertise consist of Mobile and Web Application Design using ReactJS and Flutter as well as Data Structure and Algorithm. I'm also familiar with back end technologies such as Postman, Springboots, SQL, etc ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "phucthanhtruong0405@gmail.com",
+    "phone": "(707)-391-3992",
+    "address": {
+      "street": "none",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95826"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/phuc-truong-942080191/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/PhucTruong98?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+  "resume": {
+    "skillmessage": "I am well versed with the following skills",
+    "education": [
+      {
+        "school": "California State University Sacramento",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduated": "Expected December 2022",
+        "description": ""
+      },
+      {
+        "school": "Mendocino College",
+        "degree": "Associate Degree in Computer Science",
+        "graduated": "December 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "LACO Associates",
+        "title": "Intern",
+        "years": "March 2010 - Present",
+        "description": "Wrote a Python program to perform web-scraping function and collect forecast weather data to assist with storm water inspection. This program reduced the time needed to perform weather data collecting task from 30 minutes to 5 minutes daily. Assisted civil engineers with storm water assessment and various on-site inspections"
+      },
+      
+      {
+        "company": "Self Hobby",
+        "title": "App Developer",
+        "years": "August 2019 - Current",
+        "description": "Build mobile application using Flutter framework and other third party APIs. Created applications that incorporate Google Map API and live location tracking to calculate time dilation constants"
+
+      },
+      {
+        "company": "Mendocino College",
+        "title": "STEM Tutor",
+        "years": "September 2018 - December 2019",
+        "description": "Tutored roughly 20 students in Calculus and Calculus-based Physics. Provided supplemental instructions in Calculus, Differential Equations, Linear Algebra, Thermal Dynamic, Special Relativity, Electrical Engineering, etc"
+
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "RESTful Web Services with Spring Boots",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "55%"
+      },
+      {
+        "name": "Flutter/FireBase",
+        "level": "50%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "50%"
+      },
+      {
+        "name": "Python/Java",
+        "level": "80%"
+      },
+      {
+        "name": "AGILE/Jira",
+        "level": "70%"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "80%"
+      }
+      ,
+      {
+        "name": "SQL",
+        "level": "80%"
+      
+      },
+      {
+        "name": "Postman",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "[VIDEO DEMO] Time Dilation Tracker Flutter Mobile App",
+        "category": "My cross platform mobile app used for calculating time dilation constants such as ",
+        "image": "Project3.jpg",
+        "url": "https://www.youtube.com/watch?v=yDM8uhSV1nY"
+      },
+      {
+        "title": "[LIVE DEMO] Path Finding Algorithm Visualizer",
+        "category": "A react web app that visualize various path finding algorithms such as Dijkstra",
+        "image": "Project1.jpg",
+        "url": "https://phuctruong98.github.io/AlgoProject/"
+      },
+      {
+        "title": "[LIVE DEMO] Sudoku Solver Visualizer",
+        "category": "Another ReactJS app for visualizing backtracking algorithm used for solving Sudoku grid. Support upto 25x25 Sudoku board",
+        "image": "Project2.jpg",
+        "url": "https://phuctruong98.github.io/SudokuSolverPhucTruong/"
+      },
+      {
+        "title": "[VIDEO DEMO] Forecast Data Web Scraping Application ",
+        "category": "This web-scraping application utilizes selenium, requests, tkinter to create an interactive program that allow users to collect precipitation data from various locations at once. Data are collected using Python web scraping libraries",
+        "image": "Project4.jpg",
+        "url": "https://www.youtube.com/watch?v=KQjXdQZ2hEo&t=2s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "''What's true on the basketball court is true in business and in life. You want to succeed? Okay, then succeed. Deserve it. How? Outwork everybody insight. Sweat the small stuff. Sweat the big stuff. Go the extra mile. But whatever it takes, put your heart and soul into everything you do. Leave it all out on the court''",
+        "user": "Rick Pitino"
+      },
+      {
+        "text": "''The only impossible journey is the one you never begin.''",
+        "user": "Tony Robins"
+      }
+    ]
+  }
+}

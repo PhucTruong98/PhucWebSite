@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PhucWebSite/static/css/main.073c9b0a.css",
-    "main.js": "/PhucWebSite/static/js/main.f468362e.js",
+    "main.js": "/PhucWebSite/static/js/main.d007a322.js",
     "static/js/787.650a1362.chunk.js": "/PhucWebSite/static/js/787.650a1362.chunk.js",
     "index.html": "/PhucWebSite/index.html",
     "main.073c9b0a.css.map": "/PhucWebSite/static/css/main.073c9b0a.css.map",
-    "main.f468362e.js.map": "/PhucWebSite/static/js/main.f468362e.js.map",
+    "main.d007a322.js.map": "/PhucWebSite/static/js/main.d007a322.js.map",
     "787.650a1362.chunk.js.map": "/PhucWebSite/static/js/787.650a1362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f468362e.js"
+    "static/js/main.d007a322.js"
   ]
 }
